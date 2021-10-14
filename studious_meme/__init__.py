@@ -1,5 +1,5 @@
 from flask import Flask
-from studious-meme.ext import configuration
+from studious_meme.ext import configuration
 from .views import root
 
 
